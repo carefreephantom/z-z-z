@@ -1,2 +1,2 @@
-DOMAIN-SUFFIX,tvb.com
-DOMAIN-SUFFIX,news.tvb.com
+DOMAIN-SUFFIX,tvb.com,PROXY
+DOMAIN-SUFFIX,news.tvb.com,PROXY
